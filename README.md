@@ -8,8 +8,7 @@ Let's see... according to Winry's gaming spreadsheet, it looks like she enjoyed 
 
 She did [Metroid: Zero Mission](https://en.wikipedia.org/wiki/Metroid:_Zero_Mission) around that time and really enjoyed being Samus and exploring the map for hidden powerups and secret areas. A year later she played a fan remake of the second Metroid game, AM2R.
 
-
-![](img/am2r-plasmabeam.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qDs2x9ScCBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 She also liked [Journey](https://store.steampowered.com/app/638230/Journey/) and [Flower](https://store.steampowered.com/app/966330/Flower/).
 
