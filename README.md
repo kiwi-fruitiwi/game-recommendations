@@ -1,31 +1,19 @@
 ## Game recommendations for Allie
 
-<details>
-<summary>Problem solving: developing critical thinking skills and building a growth mindset</summary>
-  FTL: Faster than Light
-  
-</details>  
 
-<details>
-<summary>Biology: appreciating nature and animals</summary>
-  Equilinox
-  In Other Waters
-  Alba: a Wildlife Adventure
-</details>  
+I think what you're doing right now — having Allison play what you play — is the best strategy. Children tend to develop more respect for (and have better relationships with) parents who are involved with their hobbies. Plus you'll be more empathetic when they struggle, and they'll think you're a total badass when you can help them with difficult segments :D
 
-<details>
-<summary>Virtual Reality: reducing clutter and having fun with spatial perception</summary>
-    VR is a great way to reduce clutter of physical toys and engage spatial perception skills! Here are a few the kids have enjoyed over the years:
-</details>  
+Let's see... according to Winry's gaming spreadsheet, it looks like she enjoyed playing various Mario games (Super Mario 3D World, Super Mario Galaxy 2, Super Mario Bros. U, Mario Kart 8) and learned to read from Pokémon at around age 4½. There was a lot of repetitive gardening and battle text in Pokémon White, so she built confidence through reading lines like "Squirtle uses Water Gun!" 347328901 times.
 
 
+She did [Metroid: Zero Mission](https://en.wikipedia.org/wiki/Metroid:_Zero_Mission) around that time and really enjoyed being Samus and exploring the map for hidden powerups and secret areas. A year later she played a fan remake of the second Metroid game, AM2R.
 
 
-I think what you're doing right now (have Allison play what you play) is the best strategy.
+![](img/am2r-plasmabeam.mp4)
 
-Let's see... according to Winry's gaming spreadsheet, it looks like she enjoyed playing Mario¹ and learned to read from Pokemon at around age 4½. She did Metroid: Zero Mission around that time and really enjoyed being Samus and exploring for secrets. She also liked Journey (https://store.steampowered.com/app/638230/Journey/) and Flower. 
+She also liked [Journey](https://store.steampowered.com/app/638230/Journey/) and [Flower](https://store.steampowered.com/app/966330/Flower/).
 
-Monument Valley 1 and 2 for iOS were charming 3D puzzle / spatial reasoning games featuring a girl protagonist. The Dragonbox series of games helped the kids get a good conceptual and visual grasp of numbers as opposed to memorizing symbols. Dragonbox Elements was amazing and taught them geometry in a very sneaky way, while Dragonbox algebra trained them to think about abstract algebraic concepts, also in a sneaky way!
+![](img/flower.webp)
 
 Winry had fun early on with Pokemon Art Academy and Art Academy, learning about digital art and using layers in her compositions on her 3DS. This helped her transition to Procreate later on the iPad for all of her handwriting and proofwriting.
 
@@ -58,4 +46,23 @@ We also enjoyed many indie classics throughout the years with the kids, like Hol
 how P5 is a good family reading experience. 
 
 
-¹ super mario 3D world, super mario galaxy 2, super mario bros. U, mario kart 8
+
+<details>
+<summary>Problem solving: developing critical thinking skills and building a growth mindset</summary>
+  FTL: Faster than Light
+
+</details>  
+
+<details>
+<summary>Biology: appreciating nature and animals</summary>
+  Equilinox
+  In Other Waters
+  Alba: a Wildlife Adventure
+</details>  
+
+<details>
+<summary>Virtual Reality: reducing clutter and having fun with spatial perception</summary>
+    VR is a great way to reduce clutter of physical toys and engage spatial perception skills! Here are a few the kids have enjoyed over the years:
+</details>  
+
+
