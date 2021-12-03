@@ -70,6 +70,13 @@ with a basic triangle and gradually build up the foundations to do visual proofs
 by unlocking new powers or constructions like the perpendicular bisector,
 rhombus, or interior angle theorem.
 ![](img/elements.jpg)
+Here's an old photo of them playing together! They had to purchase playing time 
+with "currency" they earn for having good behavior and good posture he he he.
+![](img/dbelementsbears.jpg)
+
+18 months later, with 60-90 minutes of math a day:
+![](img/cosx+y.png)
+Elements is the real deal haha 😅
 
 The [Dragonbox Algebra](https://dragonbox.com/products/algebra-5) games teach
 kids how to manipulate equations by performing the same action on each side of
@@ -90,7 +97,8 @@ RPG-like way to introduce the kids to
 chess. [No Stress Chess](https://www.amazon.com/Winning-Moves-Games-Stress-Chess/dp/B0007Q1IO4)
 was the next logical step, where you reduce complexity by limiting moves only to
 the piece cards you draw from a randomized deck, and gradually increase your
-options by drawing extra cards or following extra rules.
+options by drawing extra cards or allowing more of the complete rule set 
+like castling or en passant.
 
 I've been kind of surprised with chess. I thought it was a "solved" game because
 of AIs, but it's both fun and tactical. All four of us play, and all of us are
@@ -133,7 +141,7 @@ and chords with my character's harp.
 
 ![](img/ffxivperformance.jpg)
 
-Eventually we set him up with [Yousician](https://youtu.be/0lWLZ4vp_ls), which
+Eventually we set him up with [Yousician](https://yousician.com/), which
 helps you establish good practice habits while gamifying your practice sessions
 with points and achievements.
 
@@ -143,11 +151,12 @@ with points and achievements.
 Back then, you could upload your own scores in musicXML format and practice
 whatever you wanted! But they sadly removed that feature. Yousician has its own
 set of issues, though. Without a teacher or parent to supervise technique, you
-can pick up a lot of awful habits quickly.
+can pick up a lot of awful habits quickly. Here is a [clip of Cody and I 
+doing Yousician!](https://youtu.be/0lWLZ4vp_ls) It's pretty cute lol.
 
-## 6-10
+## Age 6 and beyond
 
-As a 6 Winry started enjoying bigger RPGs like
+As a 6-year-old Winry started enjoying bigger RPGs like
 [Breath of the Wild](https://www.zelda.com/breath-of-the-wild/) and
 [Horizon: Zero Dawn](https://www.playstation.com/en-us/games/horizon-zero-dawn/)
 .
