@@ -70,11 +70,12 @@ with a basic triangle and gradually build up the foundations to do visual proofs
 by unlocking new powers or constructions like the perpendicular bisector,
 rhombus, or interior angle theorem.
 ![](img/elements.jpg)
-Here's an old photo of them playing together! They had to purchase playing time 
+Here's an old photo of them playing together! They had to purchase playing time
 with "currency" they earn for having good behavior and good posture he he he.
 ![](img/dbelementsbears.jpg)
 
-18 months later, with 60-90 minutes of math a day:
+18 months later, with 60-90 minutes of math a day, often with me prying them
+away from their iPads:
 ![](img/cosx+y.png)
 Elements is the real deal haha 😅
 
@@ -97,12 +98,33 @@ RPG-like way to introduce the kids to
 chess. [No Stress Chess](https://www.amazon.com/Winning-Moves-Games-Stress-Chess/dp/B0007Q1IO4)
 was the next logical step, where you reduce complexity by limiting moves only to
 the piece cards you draw from a randomized deck, and gradually increase your
-options by drawing extra cards or allowing more of the complete rule set 
-like castling or en passant.
+options by drawing extra cards or allowing more of the complete rule set like
+castling or en passant.
 
 I've been kind of surprised with chess. I thought it was a "solved" game because
 of AIs, but it's both fun and tactical. All four of us play, and all of us are
-terrible.
+terrible, but we apply our usual learning techniques: lessons, puzzle practice,
+playing real games, and spaced repetition of recalling core concepts.
+
+## Typing
+
+Learning how to type can be an amazing educational game. I think Cody put it
+best when he was 5: "You know, Z, TypingClub is famous because it not only
+teaches you how to type, but also makes you understand about the world!"
+
+[TypingClub](https://www.typingclub.com/) 's "Typing Jungle" offers basic typing
+lessons at first, but ramps up into offering typing practice on passages about
+science and society. The kids had a ton of fun learning about a wide variety of
+topics while they practiced 15 minutes a day on many hundreds of lessons. Here
+is a clip of them at 6 and 10:
+
+[![](img/typingclub-playB.jpg)](https://youtu.be/L0Kk0wtVOt4)
+
+As with most mechanical skills, you'll need to be careful when you're getting
+started: setting them up with good posture, proper finger technique, and a
+growth mindset takes some time and patience. Limiting sessions to 15 minutes
+helps with that, while the automated rewards and achievements in TypingClub help
+grease the wheels a bit :D
 
 ## Rhythm games
 
@@ -115,16 +137,15 @@ wonderful Final Fantasy music and encouraged Cody to explore a lot of songs on
 the piano. Having listened to Final Fantasy music all their lives as lullaby
 music at night, they were delighted to be so familiar with the songs and be able
 to play along. Much of the music is present in Final Fantasy XIV, a triple-A
-MMORPG the four of us now play as a family. 
+MMORPG the four of us now play as a family.
 
 ![](img/theatrhythm.jpg)
-The scoring system in Theatrhythm actually ended up being a foundation of 
-self-improvement and goal setting. To this day all of their problem sets and 
-timed activities like getting ready for the morning and taking baths are 
-based off of the same  F, D, C, B, A, S, SS, SSS scoring system. For 
-example, here is a clip of their calculus page:
+The scoring system in Theatrhythm actually ended up being a foundation of
+self-improvement and goal setting. To this day all of their problem sets and
+timed activities like getting ready for the morning and taking baths are based
+off of the same F, D, C, B, A, S, SS, SSS scoring system. For example, here is a
+clip of their calculus page:
 ![](img/psets.png)
-
 
 [Crypt of the Necrodancer](https://store.steampowered.com/app/247080/Crypt_of_the_NecroDancer/)
 and its Legend of Zelda themed
@@ -141,9 +162,9 @@ and chords with my character's harp.
 
 ![](img/ffxivperformance.jpg)
 
-Eventually we set him up with [Yousician](https://yousician.com/), which
-helps you establish good practice habits while gamifying your practice sessions
-with points and achievements.
+Eventually we set him up with [Yousician](https://yousician.com/), which helps
+you establish good practice habits while gamifying your practice sessions with
+points and achievements.
 
 ![](img/yousician1.jpg)
 ![](img/yousician2.jpg)
@@ -151,8 +172,9 @@ with points and achievements.
 Back then, you could upload your own scores in musicXML format and practice
 whatever you wanted! But they sadly removed that feature. Yousician has its own
 set of issues, though. Without a teacher or parent to supervise technique, you
-can pick up a lot of awful habits quickly. Here is a [clip of Cody and I 
-doing Yousician!](https://youtu.be/0lWLZ4vp_ls) It's pretty cute lol.
+can pick up a lot of awful habits quickly. Here is
+a [clip of Cody and I doing Yousician!](https://youtu.be/0lWLZ4vp_ls) It's
+pretty cute lol.
 
 ## Age 6 and beyond
 
