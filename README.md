@@ -108,15 +108,15 @@ playing real games, and spaced repetition of recalling core concepts.
 
 ## Typing
 
-Learning how to type can be an amazing educational game. I think Cody put it
-best when he was 5: "You know, Z, TypingClub is famous because it not only
+Learning how to type can be an amazing educational game, too! I think Cody put
+it best when he was 5: "You know, Z, TypingClub is famous because it not only
 teaches you how to type, but also makes you understand about the world!"
 
-[TypingClub](https://www.typingclub.com/) 's "Typing Jungle" offers basic typing
-lessons at first, but ramps up into offering typing practice on passages about
-science and society. The kids had a ton of fun learning about a wide variety of
-topics while they practiced 15 minutes a day on many hundreds of lessons. Here
-is a clip of them at 6 and 10:
+[TypingClub](https://www.typingclub.com/) offers a "Typing Jungle" mode which
+starts with basic typing lessons but ramps into typing practice on passages
+about science, animals, geography, and society. The kids had a ton of fun
+learning about a wide variety of topics while they practiced 15 minutes a day on
+many hundreds of lessons. Here is a clip of them at 6 and 10:
 
 [![](img/typingclub-playB.jpg)](https://youtu.be/L0Kk0wtVOt4)
 
@@ -126,18 +126,43 @@ growth mindset takes some time and patience. Limiting sessions to 15 minutes
 helps with that, while the automated rewards and achievements in TypingClub help
 grease the wheels a bit :D
 
+I think more than any other activity, typing has been the core skill that has
+accelerated their learning the most. Being able to commit thoughts to "paper"
+quickly has enabled the kids to write thousands of pages of journals each year.
+This is important in self-reflection, analysis of errors, and active recall.
+
+[//]: # add image: cody working on typerc code
+
+After each 10-20 minute activity session they spend 2-3 minutes typing up a
+concise summary of what happened and what they learned. After making mistakes
+they are expected to write a mistake log detailing the infraction, why it's a
+problem, and their plan to rectify their behavior so they don't make the same
+mistake again.
+
+Being able to read their thoughts and helps us as parents to address behavior or
+mindset problems before they arise: sometimes we'll catch a note of indignation
+in a mistake log, or a wrong reason showing a misunderstanding of a crucial
+concept in their activity log. They can read our journals too and the four of us
+regularly have pow-wows about mistakes we all have made.
+
+For Winry, this is around 7 pages of single-spaced font per day, whereas over
+the last month, Cody wrote 4.5 per day. They get a lot of incidental practice.
+
+
+[//]: # add example passages, maybe?
+
 ## Rhythm games
 
 The kids loved rhythm games, which ended up being a sneaky way to introduce them
 to music. In [Patapon](https://www.youtube.com/watch?v=D3Hz4hIjeDs), you have
 four drums that you beat to tell your small army to attack, defend, and perform
-combat maneuvers versus giant cartoon
-monsters. [Theatrhythm](https://www.youtube.com/watch?v=nUWXodOjzbI) has
-wonderful Final Fantasy music and encouraged Cody to explore a lot of songs on
-the piano. Having listened to Final Fantasy music all their lives as lullaby
-music at night, they were delighted to be so familiar with the songs and be able
-to play along. Much of the music is present in Final Fantasy XIV, a triple-A
-MMORPG the four of us now play as a family.
+combat maneuvers versus giant cartoon monsters.
+[Theatrhythm](https://www.youtube.com/watch?v=nUWXodOjzbI) has wonderful Final
+Fantasy music and encouraged Cody to explore a lot of songs on the piano. Having
+listened to Final Fantasy music all their lives as lullaby music at night, they
+were delighted to be so familiar with the songs and be able to play along. Much
+of the music is present in Final Fantasy XIV, a triple-A MMORPG the four of us
+now play as a family.
 
 ![](img/theatrhythm.jpg)
 The scoring system in Theatrhythm actually ended up being a foundation of
@@ -173,8 +198,8 @@ Back then, you could upload your own scores in musicXML format and practice
 whatever you wanted! But they sadly removed that feature. Yousician has its own
 set of issues, though. Without a teacher or parent to supervise technique, you
 can pick up a lot of awful habits quickly. Here is
-a [clip of Cody and I doing Yousician!](https://youtu.be/0lWLZ4vp_ls) It's
-pretty cute lol.
+a [clip of me and Cody doing Yousician](https://youtu.be/0lWLZ4vp_ls) a few
+years ago! It's pretty cute lol.
 
 ## Age 6 and beyond
 
@@ -186,8 +211,24 @@ As a 6-year-old Winry started enjoying bigger RPGs like
 Horizon made a deep impression on her, partially, I think, because you begin the
 story as a six-year-old girl who grows up to be very smart and resourceful,
 surviving in wilderness filled with mysterious high-tech machines. This game
-taught Winry a lot about group dynamics and ethics.
+taught Winry a lot about group dynamics and ethics while introducing her to RPG
+mechanics, stamina management, and ranged combat.
 ![](img/aloyrost.png)
+
+We enjoy playing strategy games, and Faster Than Light is one of our favorites.
+In FTL, you're a spaceship captain leading a multi-species crew. Maps and events
+are procedurally generated, and you get to decide how to upgrade your ship. Do
+you upgrade your reactor so you can comfortably power all of your systems
+simultaneously, or try to get ahead in shield / weapon / sensor upgrades and
+divert power when necessary in combat?
+
+![](img/winry ftl.jpg)
+
+Plus, we name all of our ships and crew members after concepts we are learning.
+Right now the kids are designing and implementing their own computer via
+hardware simulator:
+
+![](img/recent ships FTL learning.png)
 
 Many of these games are on the 3DS, which makes for great entertainment during
 car rides.
@@ -224,7 +265,7 @@ how P5 is a good family reading experience.
 <details>
 <summary>Problem solving: developing critical thinking skills and building a growth mindset</summary>
   FTL: Faster than Light
-
+    ![](img/recent ships FTL learning.png)
 </details>  
 
 <details>
