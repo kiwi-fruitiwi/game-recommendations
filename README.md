@@ -59,6 +59,15 @@ because the one on the Switch was co-op (
 although playing together without getting frustrated certainly took practice.)
 ![](img/boxboy.jpg)
 
+Monument Valley was also a big hit with both kids. It's a cute 3D 
+escher-like puzzle game where rotations and changes in perspective yield 
+surprising new paths. They never had issues with spatial perception after 
+playing both Monument Valley 1 and its sequel.
+![](img/mvlevel.png)
+
+Here they are playing with a stuffed version of your in-game companion, Totem:
+![](img/monument valley.jpeg)
+
 ## Educational games
 
 [Dragonbox](https://dragonbox.com/) was amazing. I think this series of
